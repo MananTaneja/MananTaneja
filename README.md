@@ -24,6 +24,7 @@ Making Web Awesome [@Flipkart](https://github.com/Flipkart)
 
 - 💻  I’m currently learning Design Patterns
 - 👯  Always open to collaborate and discuss about Web 🧡
+- 📚  Self Learning with [@Frontend Masters](https://frontendmasters.com/u/Manan/) and Books (yep, I actually read)
 
 
 ### 🤝 Connect with me 
@@ -41,4 +42,5 @@ Making Web Awesome [@Flipkart](https://github.com/Flipkart)
 ![AWS](https://img.shields.io/badge/aws-%23039BE5.svg?style=for-the-badge&logo=Amazon%20AWS)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2307405e.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23ED8B00.svg?style=for-the-badge&logo=figma&logoColor=white) 
  
