@@ -22,7 +22,7 @@ Making Web Awesome [@Flipkart](https://github.com/Flipkart)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manantaneja&langs_count=10&layout=compact)
 
 
-- 💻  I’m currently learning Design Patterns
+- 💻  I’m currently learning about [Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/)
 - 👯  Always open to collaborate and discuss about Web 🧡
 - 📚  Self Learning with [@Frontend Masters](https://frontendmasters.com/u/Manan/) and Books (yep, I actually read)
 
