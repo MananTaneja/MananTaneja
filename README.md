@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Making Web Awesome [@Flipkart](https://github.com/Flipkart)
+Making Web Awesome [@Uber](https://github.com/Uber)
 
 
 ![Manan's github stats](https://github-readme-stats.vercel.app/api?username=manantaneja&count_private=true&show_icons=true)
