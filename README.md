@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Making Web Awesome [@Uber](https://github.com/Uber)
 
 
-![Manan's github stats](https://github-readme-stats.vercel.app/api?username=manantaneja&count_private=true&show_icons=true)
+<!--[Manan's github stats](https://github-readme-stats.vercel.app/api?username=manantaneja&count_private=true&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manantaneja&langs_count=10&layout=compact)
 
 
