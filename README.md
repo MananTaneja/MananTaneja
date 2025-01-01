@@ -43,4 +43,5 @@ Making Web Awesome [@Uber](https://github.com/Uber)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2307405e.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23ED8B00.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Golang](https://img.shields.io/badge/go-%23ED8B00.svg?style=for-the-badge&logo=go&logoColor=white)
  
